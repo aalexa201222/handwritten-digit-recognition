@@ -1,4 +1,4 @@
-# handwritten-digit-recognition
+# Handwritten digit recognition
 This repository contains a Python project that demonstrates digit recognition using Convolutional Neural Networks (CNN) on the popular MNIST dataset. The MNIST dataset consists of handwritten digits and is commonly used for benchmarking machine learning algorithms.
 
 ## Overview
