@@ -19,10 +19,5 @@ Clone the repository to your local machine:
 git clone https://github.com/aalexa201222/handwritten-digit-recognition.git
 ## Acknowledgments
 
-- The MNIST dataset is a benchmark dataset for machine learning and is available at [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/).
+- The MNIST dataset is a benchmark dataset for machine learning and is available at https://keras.io/api/datasets/mnist/
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute, open issues, or provide feedback to help improve this project!
